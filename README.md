@@ -14,9 +14,9 @@ Robot learning, reinforcement learning, robust and adaptive control, sim-to-real
 
 📌 Cerebellar-Inspired Residual Control for Fault Recovery. ICML 2026. First author.
 
-📌 When Robots Sleep: Offline Skill Consolidation for Shared-Policy Robot Learning. CoRL 2026, under review. First author.
+📌 When Robots Sleep: Offline Skill Consolidation for Shared-Policy Robot Learning. CoRL 2026, accepted. First author.
 
-📌 Stability-Aligned Residual Adaptation for Rapid Recovery from Dynamics Shifts. AAAI 2027, under review. First author.
+📌 Stability-Aligned Residual Adaptation for Rapid Recovery from Dynamics Shifts. Preprint, [arXiv:2603.07775](https://arxiv.org/abs/2603.07775). First author.
 
 📌 GaitVista: Reliability-Aware AI Measurement toward Accessible Longitudinal Gait Assessment. AAAI 2027, under review. First author.
 
