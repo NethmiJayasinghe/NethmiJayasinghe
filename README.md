@@ -16,13 +16,13 @@ Robot learning, reinforcement learning, robust and adaptive control, sim-to-real
 
 📌 When Robots Sleep: Offline Skill Consolidation for Shared-Policy Robot Learning. CoRL 2026, accepted. First author.
 
-📌 Stability-Aligned Residual Adaptation for Rapid Recovery from Dynamics Shifts. Preprint. First author.
-
-📌 GaitVista: Reliability-Aware AI Measurement toward Accessible Longitudinal Gait Assessment. AAAI 2027, under review. First author.
-
 📌 Cerebellum-inspired memtransistors enable emergent differentiation for hardware-efficient novelty detection. Nature Communications 2026. Co-first author.
 
 📌 Single-Step Extraction of Transformer Attention with Dual-Gated Memtransistor Crossbars. IEEE Electron Device Letters 2024. First author.
+
+📌 Stability-Aligned Residual Adaptation for Rapid Recovery from Dynamics Shifts. Preprint. First author.
+
+📌 GaitVista: Reliability-Aware AI Measurement toward Accessible Longitudinal Gait Assessment. AAAI 2027, under review. First author.
 
 ## 🛠️ Tools & Frameworks
 
